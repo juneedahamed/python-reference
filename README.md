@@ -2,4 +2,8 @@
 Code reference for python basics
 
 ## basics
-  + decorators.py 
+ decorators
+ lambda
+ partial functions
+ access rules
+ closures
